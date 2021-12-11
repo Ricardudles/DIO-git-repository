@@ -1,0 +1,8 @@
+git init-> transform a pasta em um repositório git
+git status -> mostra o estado do repositório git
+git add . -> adiciona todos os arquivos alterados
+git commit -> gravar alterações no repositório
+git remote add origin url
+
+git pull
+git push
